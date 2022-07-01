@@ -23,9 +23,9 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94703188412'] //Owner number in aive msg
-global.premium = ['+94703188412'] //Owner Number info
-global.ownernomer = '++94703188412' //Owner Number <<<
+global.owner = ['+94769103772'] //Owner number in aive msg
+global.premium = ['+94769103772'] //Owner Number info
+global.ownernomer = '+94769103772' //Owner Number <<<
 
 global.ownername = '😎D2D GEEK' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
